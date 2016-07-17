@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6528875316042714
+  lightness: 0.9187353425094527
+  rhythmicContrast: 0.02567583149270658
+  saturation: 0.8473962219104256
+layout_spectrum: 0.8767132333391036
+name: test
+typography_spectrum: 0.6705720469595439
